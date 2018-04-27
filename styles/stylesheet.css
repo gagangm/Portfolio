@@ -163,7 +163,10 @@ code {
 .intro {
   background-color: #222;
   padding-top: 11.4%;
-
+  background-image: url('../gagangm.jpg');
+  background-size: cover;                      
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .white-text {
